@@ -1,5 +1,7 @@
 # The unofficial iHub job board API
 
+[![Build Status](https://travis-ci.org/clovisphere/iHub-job-api.svg?branch=master)](https://travis-ci.org/clovisphere/iHub-job-api)
+
 Wouldn't it be cool if we could query the [iHub job board](https://ihub.co.ke/jobs) from the confort of a [terminal](https://www.wikiwand.com/en/Terminal_(macOS))? I am thinking about something like:
 
 ```
