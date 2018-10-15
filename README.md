@@ -1,10 +1,11 @@
 # The unofficial iHub job API
 
-Wouldn't it be cool if we could query the [iHub job board](https://ihub.co.ke/jobs) from the confort of a [terminal](https://www.wikiwand.com/en/Terminal_(macOS))? I am thinking about something like :point_down:
+Wouldn't it be cool if we could query the [iHub job board](https://ihub.co.ke/jobs) from the confort of a [terminal](https://www.wikiwand.com/en/Terminal_(macOS))? I am thinking about something like:
 
 ```
 curl http://{SOME_API_ADDRESS}/api/v1/jobs
 ```
+
 or better yet :point_down:
 
 ```
