@@ -1,4 +1,4 @@
-# The unofficial iHub job API
+# The unofficial iHub job board API
 
 Wouldn't it be cool if we could query the [iHub job board](https://ihub.co.ke/jobs) from the confort of a [terminal](https://www.wikiwand.com/en/Terminal_(macOS))? I am thinking about something like:
 
@@ -13,3 +13,20 @@ curl http://{SOME_API_ADDRESS}/api/v1/jobs?target=python&location=nairobi
 ```
 
 and get all the open [Python](https://www.python.org/) jobs in [Nairobi](https://www.wikiwand.com/en/Nairobi)? 
+
+I think that will be cool, and I have set out to build such an API, mostly because:
+
+1.  The folks at [iHub](https://ihub.co.ke/) don't have an API (maybe they do.. but I didn't see any) :unamused:
+2.  It's a good reason to practice [Python](https://www.python.org/) :ok_hand:
+3.  It's fun :joy:
+
+### Usage
+
+(*Will be populated shortly*) :sunglasses:
+
+
+
+
+
+
+Build with love in 🇰🇪
