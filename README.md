@@ -33,5 +33,5 @@ I think that will be cool, and I have set out to build such an API, mostly becau
 
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/clovisphere/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/clovisphere/iHub-job-api)
 
