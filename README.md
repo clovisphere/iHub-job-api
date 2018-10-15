@@ -17,7 +17,7 @@ and get all the open [Python](https://www.python.org/) jobs in [Nairobi](https:/
 I think that will be cool, and I have set out to build such an API, mostly because:
 
 1.  The folks at [iHub](https://ihub.co.ke/) don't have an API (maybe they do.. but I didn't see any) :unamused:
-2.  It's a good reason to practice [Python](https://www.python.org/) :ok_hand:
+2.  It's a good way to practice [Python](https://www.python.org/) :ok_hand:
 3.  It's fun :joy:
 
 ### Usage
