@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/clovisphere/iHub-job-api.svg?branch=master)](https://travis-ci.org/clovisphere/iHub-job-api)
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
 Wouldn't it be cool if we could query the [iHub job board](https://ihub.co.ke/jobs) from the confort of a [terminal](https://www.wikiwand.com/en/Terminal_(macOS))? I am thinking about something like:
 
 ```
@@ -22,6 +25,7 @@ I think that will be cool, and I have set out to build such an API, mostly becau
 2.  It's a good way to practice [Python](https://www.python.org/) :ok_hand:
 3.  It's fun :joy:
 
+
 ### Usage
 
 (*Will be populated shortly*) :sunglasses:
@@ -29,6 +33,5 @@ I think that will be cool, and I have set out to build such an API, mostly becau
 
 
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/clovisphere/)
 
-
-Build with love in 🇰🇪
