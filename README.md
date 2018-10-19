@@ -1,4 +1,5 @@
-# The unofficial iHub job board API [![Build Status](https://travis-ci.org/clovisphere/iHub-job-api.svg?branch=master)](https://travis-ci.org/clovisphere/iHub-job-api) [![GitHub issues](https://img.shields.io/github/issues/clovisphere/iHub-job-api.svg)](https://github.com/clovisphere/iHub-job-api/issues) [![GitHub forks](https://img.shields.io/github/forks/clovisphere/iHub-job-api.svg)](https://github.com/clovisphere/iHub-job-api/network)
+# The unofficial iHub job board API [![Build Status](https://travis-ci.org/clovisphere/iHub-job-api.svg?branch=master)](https://travis-ci.org/clovisphere/iHub-job-api) [![GitHub issues](https://img.shields.io/github/issues/clovisphere/iHub-job-api.svg)](https://github.com/clovisphere/iHub-job-api/issues) [![GitHub forks](https://img.shields.io/github/forks/clovisphere/iHub-job-api.svg)](https://github.com/clovisphere/iHub-job-api/network) [![GitHub stars](https://img.shields.io/github/stars/clovisphere/iHub-job-api.svg)](https://github.com/clovisphere/iHub-job-api/stargazers)
+
 
 
 
