@@ -1,4 +1,5 @@
-# The unofficial iHub job board API [![Build Status](https://travis-ci.org/clovisphere/iHub-job-api.svg?branch=master)](https://travis-ci.org/clovisphere/iHub-job-api)
+# The unofficial iHub job board API [![Build Status](https://travis-ci.org/clovisphere/iHub-job-api.svg?branch=master)](https://travis-ci.org/clovisphere/iHub-job-api) [![GitHub issues](https://img.shields.io/github/issues/clovisphere/iHub-job-api.svg)](https://github.com/clovisphere/iHub-job-api/issues) [![GitHub forks](https://img.shields.io/github/forks/clovisphere/iHub-job-api.svg)](https://github.com/clovisphere/iHub-job-api/network)
+
 
 
 Wouldn't it be cool if we could query the [iHub job board](https://ihub.co.ke/jobs) from the confort of a [terminal](https://www.wikiwand.com/en/Terminal_(macOS))? I am thinking about something like:
